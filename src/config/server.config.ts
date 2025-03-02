@@ -11,7 +11,10 @@ export const ENVIRONMENT =
 
 // Supabase
 export const SUPABASE_ANON_KEY = getEnvVar("SUPABASE_ANON_KEY");
-export const SUPABASE_SERVICE_ROLE_KEY = getEnvVar("SUPABASE_SERVICE_ROLE_KEY");
+export const SUPABASE_SERVICE_ROLE_KEY = getEnvVar(
+  "SUPABASE_SERVICE_ROLE_KEY",
+  false
+);
 export const SUPABASE_URL = getEnvVar("SUPABASE_URL");
 
 export function getEnvVar(variable: string, required?: true): string;

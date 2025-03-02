@@ -1,8 +1,9 @@
 import { createClient } from "@/utils/supabase/server";
 
 const oscars = await import("./oscars.json");
+console.log("oscars", oscars);
 
-async function insertNomination(
+export async function insertNomination(
   nomination: (typeof oscars)["categories"][number]
 ) {
   const supabase = await createClient();
@@ -77,15 +78,19 @@ async function insertNomination(
     nomination.nominees.map((nominee) => ({
       category_id: categoryIds.get(nomination.title)!,
       film_id: filmIds.get(nominee.film)!,
-      actor_id: actorIds.get(nominee.actor) || null,
-      actress_id: actressIds.get(nominee.actress) || null,
+      actor_id: actorIds.get((nominee as { actor: string }).actor) || null,
+      actress_id:
+        actressIds.get((nominee as { actress: string }).actress) || null,
       cinematographer_id:
-        cinematographerIds.get(nominee.cinematographer) || null,
-      director_id: directorIds.get(nominee.director) || null,
-      editor_id: editorIds.get(nominee.editor) || null,
-      country: nominee.country || null,
-      song: nominee.song || null,
-      recipients: nominee.recipients || null,
+        cinematographerIds.get(
+          (nominee as { cinematographer: string }).cinematographer
+        ) || null,
+      director_id:
+        directorIds.get((nominee as { director: string }).director) || null,
+      editor_id: editorIds.get((nominee as { editor: string }).editor) || null,
+      country: (nominee as { country: string }).country || null,
+      song: (nominee as { song: string }).song || null,
+      recipients: (nominee as { recipients: string[] }).recipients || null,
     }))
   );
   if (error) {

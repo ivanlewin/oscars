@@ -1,0 +1,876 @@
+{
+  "categories": [
+    {
+      "title": "Actor in a Leading Role",
+      "nominees": [
+        {
+          "actor": "Adrien Brody",
+          "film": "The Brutalist"
+        },
+        {
+          "actor": "Timothée Chalamet",
+          "film": "A Complete Unknown"
+        },
+        {
+          "actor": "Colman Domingo",
+          "film": "Sing Sing"
+        },
+        {
+          "actor": "Ralph Fiennes",
+          "film": "Conclave"
+        },
+        {
+          "actor": "Sebastian Stan",
+          "film": "The Apprentice"
+        }
+      ]
+    },
+    {
+      "title": "Actor in a Supporting Role",
+      "nominees": [
+        {
+          "actor": "Yura Borisov",
+          "film": "Anora"
+        },
+        {
+          "actor": "Kieran Culkin",
+          "film": "A Real Pain"
+        },
+        {
+          "actor": "Edward Norton",
+          "film": "A Complete Unknown"
+        },
+        {
+          "actor": "Guy Pearce",
+          "film": "The Brutalist"
+        },
+        {
+          "actor": "Jeremy Strong",
+          "film": "The Apprentice"
+        }
+      ]
+    },
+    {
+      "title": "Actress in a Leading Role",
+      "nominees": [
+        {
+          "actress": "Cynthia Erivo",
+          "film": "Wicked"
+        },
+        {
+          "actress": "Karla Sofía Gascón",
+          "film": "Emilia Pérez"
+        },
+        {
+          "actress": "Mikey Madison",
+          "film": "Anora"
+        },
+        {
+          "actress": "Demi Moore",
+          "film": "The Substance"
+        },
+        {
+          "actress": "Fernanda Torres",
+          "film": "I'm Still Here"
+        }
+      ]
+    },
+    {
+      "title": "Actress in a Supporting Role",
+      "nominees": [
+        {
+          "actress": "Monica Barbaro",
+          "film": "A Complete Unknown"
+        },
+        {
+          "actress": "Ariana Grande",
+          "film": "Wicked"
+        },
+        {
+          "actress": "Felicity Jones",
+          "film": "The Brutalist"
+        },
+        {
+          "actress": "Isabella Rossellini",
+          "film": "Conclave"
+        },
+        {
+          "actress": "Zoe Saldaña",
+          "film": "Emilia Pérez"
+        }
+      ]
+    },
+    {
+      "title": "Animated Feature Film",
+      "nominees": [
+        {
+          "film": "Flow",
+          "recipients": [
+            "Gints Zilbalodis",
+            "Matīss Kaža",
+            "Ron Dyens",
+            "Gregory Zalcman"
+          ]
+        },
+        {
+          "film": "Inside Out 2",
+          "recipients": [
+            "Kelsey Mann",
+            "Mark Nielsen"
+          ]
+        },
+        {
+          "film": "Memoir of a Snail",
+          "recipients": [
+            "Adam Elliot",
+            "Liz Kearney"
+          ]
+        },
+        {
+          "film": "Wallace & Gromit: Vengeance Most Fowl",
+          "recipients": [
+            "Nick Park",
+            "Merlin Crossingham",
+            "Richard Beek"
+          ]
+        },
+        {
+          "film": "The Wild Robot",
+          "recipients": [
+            "Chris Sanders",
+            "Jeff Hermann"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Animated Short Film",
+      "nominees": [
+        {
+          "film": "Beautiful Men",
+          "recipients": [
+            "Nicolas Keppens",
+            "Brecht Van Elslande"
+          ]
+        },
+        {
+          "film": "In the Shadow of the Cypress",
+          "recipients": [
+            "Shirin Sohani",
+            "Hossein Molayemi"
+          ]
+        },
+        {
+          "film": "Magic Candies",
+          "recipients": [
+            "Daisuke Nishio",
+            "Takashi Washio"
+          ]
+        },
+        {
+          "film": "Wander to Wonder",
+          "recipients": [
+            "Nina Gantz",
+            "Stienette Bosklopper"
+          ]
+        },
+        {
+          "film": "Yuck!",
+          "recipients": [
+            "Loïc Espuche",
+            "Juliette Marquet"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cinematography",
+      "nominees": [
+        {
+          "cinematographer": "Lol Crawley",
+          "film": "The Brutalist"
+        },
+        {
+          "cinematographer": "Greig Fraser",
+          "film": "Dune: Part Two"
+        },
+        {
+          "cinematographer": "Paul Guilhaume",
+          "film": "Emilia Pérez"
+        },
+        {
+          "cinematographer": "Ed Lachman",
+          "film": "Maria"
+        },
+        {
+          "cinematographer": "Jarin Blaschke",
+          "film": "Nosferatu"
+        }
+      ]
+    },
+    {
+      "title": "Costume Design",
+      "nominees": [
+        {
+          "recepients": [
+            "Arianne Phillips"
+          ],
+          "film": "A Complete Unknown"
+        },
+        {
+          "recepients": [
+            "Lisy Christl"
+          ],
+          "film": "Conclave"
+        },
+        {
+          "recepients": [
+            "Janty Yates",
+            "Dave Crossman"
+          ],
+          "film": "Gladiator II"
+        },
+        {
+          "recepients": [
+            "Linda Muir"
+          ],
+          "film": "Nosferatu"
+        },
+        {
+          "recepients": [
+            "Paul Tazewell"
+          ],
+          "film": "Wicked"
+        }
+      ]
+    },
+    {
+      "title": "Directing",
+      "nominees": [
+        {
+          "director": "Sean Baker",
+          "film": "Anora"
+        },
+        {
+          "director": "Brady Corbet",
+          "film": "The Brutalist"
+        },
+        {
+          "director": "James Mangold",
+          "film": "A Complete Unknown"
+        },
+        {
+          "director": "Jacques Audiard",
+          "film": "Emilia Pérez"
+        },
+        {
+          "director": "Coralie Fargeat",
+          "film": "The Substance"
+        }
+      ]
+    },
+    {
+      "title": "Documentary Feature Film",
+      "nominees": [
+        {
+          "recipients": [
+            "Shiori Ito",
+            "Eric Nyari",
+            "Hanna Aqvilin"
+          ],
+          "film": "Black Box Diaries"
+        },
+        {
+          "recipients": [
+            "Basel Adra",
+            "Rachel Szor",
+            "Hamdan Ballal",
+            "Yuval Abraham"
+          ],
+          "film": "No Other Land"
+        },
+        {
+          "recipients": [
+            "Brendan Bellomo",
+            "Slava Leontyev",
+            "Aniela Sidorska",
+            "Paula DuPre' Pesmen"
+          ],
+          "film": "Porcelain War"
+        },
+        {
+          "recipients": [
+            "Johan Grimonprez",
+            "Daan Milius",
+            "Rémi Grellety"
+          ],
+          "film": "Soundtrack to a Coup d'Etat"
+        },
+        {
+          "recipients": [
+            "Julian Brave NoiseCat",
+            "Emily Kassie",
+            "Kellen Quinn"
+          ],
+          "film": "Sugarcane"
+        }
+      ]
+    },
+    {
+      "title": "Documentary Short Film",
+      "nominees": [
+        {
+          "recipients": [
+            "Kim A. Snyder",
+            "Janique L. Robillard"
+          ],
+          "film": "Death by Numbers"
+        },
+        {
+          "recipients": [
+            "Smriti Mundhra",
+            "Maya Gnyp"
+          ],
+          "film": "I Am Ready"
+        },
+        {
+          "recipients": [
+            "Bill Morrison",
+            "Jamie Kalven"
+          ],
+          "film": "Incident"
+        },
+        {
+          "recipients": [
+            "Ema Ryan Yamazaki",
+            "Eric Nyari"
+          ],
+          "film": "Instruments of a Beating Heart"
+        },
+        {
+          "recipients": [
+            "Molly O’Brien",
+            "Lisa Remington"
+          ],
+          "film": "The Only Girl in the Orchestra"
+        }
+      ]
+    },
+    {
+      "title": "Film Editing",
+      "nominees": [
+        {
+          "editor": "Sean Baker",
+          "film": "Anora"
+        },
+        {
+          "editor": "David Jancso",
+          "film": "The Brutalist"
+        },
+        {
+          "editor": "Nick Emerson",
+          "film": "Conclave"
+        },
+        {
+          "editor": "Juliette Welfling",
+          "film": "Emilia Pérez"
+        },
+        {
+          "editor": "Myron Kerstein",
+          "film": "Wicked"
+        }
+      ]
+    },
+    {
+      "title": "International Feature Film",
+      "nominees": [
+        {
+          "film": "I'm Still Here",
+          "country": "Brazil"
+        },
+        {
+          "film": "The Girl with the Needle",
+          "country": "Denmark"
+        },
+        {
+          "film": "Emilia Pérez",
+          "country": "France"
+        },
+        {
+          "film": "The Seed of the Sacred Fig",
+          "country": "Germany"
+        },
+        {
+          "film": "Flow",
+          "country": "Latvia"
+        }
+      ]
+    },
+    {
+      "title": "Makeup and Hairstyling",
+      "nominees": [
+        {
+          "recipients": [
+            "Mike Marino",
+            "David Presto",
+            "Crystal Jurado"
+          ],
+          "film": "A Different Man"
+        },
+        {
+          "recipients": [
+            "Julia Floch Carbonel",
+            "Emmanuel Janvier",
+            "Jean-Christophe Spadaccini"
+          ],
+          "film": "Emilia Pérez"
+        },
+        {
+          "recipients": [
+            "David White",
+            "Traci Loader",
+            "Suzanne Stokes-Munton"
+          ],
+          "film": "Nosferatu"
+        },
+        {
+          "recipients": [
+            "Pierre-Olivier Persin",
+            "Stéphanie Guillon",
+            "Marilyne Scarselli"
+          ],
+          "film": "The Substance"
+        },
+        {
+          "recipients": [
+            "Frances Hannon",
+            "Laura Blount",
+            "Sarah Nuth"
+          ],
+          "film": "Wicked"
+        }
+      ]
+    },
+    {
+      "title": "Music (Original Score)",
+      "nominees": [
+        {
+          "recipients": [
+            "Daniel Blumberg"
+          ],
+          "film": "The Brutalist"
+        },
+        {
+          "recipients": [
+            "Volker Bertelmann"
+          ],
+          "film": "Conclave"
+        },
+        {
+          "recipients": [
+            "Clément Ducol",
+            "Camille"
+          ],
+          "film": "Emilia Pérez"
+        },
+        {
+          "recipients": [
+            "John Powell",
+            "Stephen Schwartz"
+          ],
+          "film": "Wicked"
+        },
+        {
+          "recipients": [
+            "Kris Bowers"
+          ],
+          "film": "The Wild Robot"
+        }
+      ]
+    },
+    {
+      "title": "Music (Original Song)",
+      "nominees": [
+        {
+          "song": "El Mal",
+          "film": "Emilia Pérez"
+        },
+        {
+          "song": "The Journey",
+          "film": "The Six Triple Eight"
+        },
+        {
+          "song": "Like A Bird",
+          "film": "Sing Sing"
+        },
+        {
+          "song": "Mi Camino",
+          "film": "Emilia Pérez"
+        },
+        {
+          "song": "Never Too Late",
+          "film": "Elton John: Never Too Late"
+        }
+      ]
+    },
+    {
+      "title": "Best Picture",
+      "nominees": [
+        {
+          "recipients": [
+            "Alex Coco",
+            "Samantha Quan",
+            "Sean Baker",
+            "Producers"
+          ],
+          "film": "Anora"
+        },
+        {
+          "recipients": [
+            "Nick Gordon",
+            "Brian Young",
+            "Andrew Morrison",
+            "D.J. Gugenheim",
+            "Brady Corbet",
+            "Producers"
+          ],
+          "film": "The Brutalist"
+        },
+        {
+          "recipients": [
+            "Fred Berger",
+            "James Mangold",
+            "Alex Heineman",
+            "Producers"
+          ],
+          "film": "A Complete Unknown"
+        },
+        {
+          "recipients": [
+            "Tessa Ross",
+            "Juliette Howell",
+            "Michael A. Jackman",
+            "Producers"
+          ],
+          "film": "Conclave"
+        },
+        {
+          "recipients": [
+            "Mary Parent",
+            "Cale Boyter",
+            "Tanya Lapointe",
+            "Denis Villeneuve",
+            "Producers"
+          ],
+          "film": "Dune: Part Two"
+        },
+        {
+          "recipients": [
+            "Pascal Caucheteux",
+            "Jacques Audiard",
+            "Producers"
+          ],
+          "film": "Emilia Pérez"
+        },
+        {
+          "recipients": [
+            "Maria Carlota Bruno",
+            "Rodrigo Teixeira",
+            "Producers"
+          ],
+          "film": "I'm Still Here"
+        },
+        {
+          "recipients": [
+            "Dede Gardner",
+            "Jeremy Kleiner",
+            "Joslyn Barnes",
+            "Producers"
+          ],
+          "film": "Nickel Boys"
+        },
+        {
+          "recipients": [
+            "Coralie Fargeat",
+            "Tim Bevan & Eric Fellner",
+            "Producers"
+          ],
+          "film": "The Substance"
+        },
+        {
+          "recipients": [
+            "Marc Platt",
+            "Producer"
+          ],
+          "film": "Wicked"
+        }
+      ]
+    },
+    {
+      "title": "Production Design",
+      "nominees": [
+        {
+          "recipients": [
+            "Judy Becker",
+            "Patricia Cuccia"
+          ],
+          "film": "The Brutalist"
+        },
+        {
+          "recipients": [
+            "Suzie Davies",
+            "Cynthia Sleiter"
+          ],
+          "film": "Conclave"
+        },
+        {
+          "recipients": [
+            "Patrice Vermette",
+            "Shane Vieau"
+          ],
+          "film": "Dune: Part Two"
+        },
+        {
+          "recipients": [
+            "Craig Lathrop",
+            "Beatrice Brentnerová"
+          ],
+          "film": "Nosferatu"
+        },
+        {
+          "recipients": [
+            "Nathan Crowley",
+            "Lee Sandales"
+          ],
+          "film": "Wicked"
+        }
+      ]
+    },
+    {
+      "title": "Live Action Short Film",
+      "nominees": [
+        {
+          "recipients": [
+            "Sam Cutler-Kreutz",
+            "David Cutler-Kreutz"
+          ],
+          "film": "A Lien"
+        },
+        {
+          "recipients": [
+            "Adam J. Graves",
+            "Suchitra Mattai"
+          ],
+          "film": "Anuja"
+        },
+        {
+          "recipients": [
+            "Victoria Warmerdam",
+            "Trent"
+          ],
+          "film": "I'm Not a Robot"
+        },
+        {
+          "recipients": [
+            "Cindy Lee",
+            "Darwin Shaw"
+          ],
+          "film": "The Last Ranger"
+        },
+        {
+          "recipients": [
+            "Nebojša Slijepčević",
+            "Danijel Pek"
+          ],
+          "film": "The Man Who Could Not Remain Silent"
+        }
+      ]
+    },
+    {
+      "title": "Sound",
+      "nominees": [
+        {
+          "recipients": [
+            "Tod A. Maitland",
+            "Donald Sylvester",
+            "Ted Caplan",
+            "Paul Massey",
+            "David Giammarco"
+          ],
+          "film": "A Complete Unknown"
+        },
+        {
+          "recipients": [
+            "Gareth John",
+            "Richard King",
+            "Ron Bartlett",
+            "Doug Hemphill"
+          ],
+          "film": "Dune: Part Two"
+        },
+        {
+          "recipients": [
+            "Erwan Kerzanet",
+            "Aymeric Devoldère",
+            "Maxence Dussère",
+            "Cyril Holtz",
+            "Niels Barletta"
+          ],
+          "film": "Emilia Pérez"
+        },
+        {
+          "recipients": [
+            "Simon Hayes",
+            "Nancy Nugent Title",
+            "Jack Dolman",
+            "Andy Nelson",
+            "John Marquis"
+          ],
+          "film": "Wicked"
+        },
+        {
+          "recipients": [
+            "Randy Thom",
+            "Brian Chumney",
+            "Gary A. Rizzo",
+            "Leff Lefferts"
+          ],
+          "film": "The Wild Robot"
+        }
+      ]
+    },
+    {
+      "title": "Visual Effects",
+      "nominees": [
+        {
+          "recipients": [
+            "Eric Barba",
+            "Nelson Sepulveda-Fauser",
+            "Daniel Macarin",
+            "Shane Mahan"
+          ],
+          "film": "Alien: Romulus"
+        },
+        {
+          "recipients": [
+            "Luke Millar",
+            "David Clayton",
+            "Keith Herft",
+            "Peter Stubbs"
+          ],
+          "film": "Better Man"
+        },
+        {
+          "recipients": [
+            "Paul Lambert",
+            "Stephen James",
+            "Rhys Salcombe",
+            "Gerd Nefzer"
+          ],
+          "film": "Dune: Part Two"
+        },
+        {
+          "recipients": [
+            "Erik Winquist",
+            "Stephen Unterfranz",
+            "Paul Story",
+            "Rodney Burke"
+          ],
+          "film": "Kingdom of the Planet of the Apes"
+        },
+        {
+          "recipients": [
+            "Pablo Helman",
+            "Jonathan Fawkner",
+            "David Shirk",
+            "Paul Corbould"
+          ],
+          "film": "Wicked"
+        }
+      ]
+    },
+    {
+      "title": "Writing (Adapted Screenplay)",
+      "nominees": [
+        {
+          "recipients": [
+            "James Mangold",
+            "Jay Cocks"
+          ],
+          "film": "A Complete Unknown"
+        },
+        {
+          "recipients": [
+            "Peter Straughan"
+          ],
+          "film": "Conclave"
+        },
+        {
+          "recipients": [
+            "Jacques Audiard",
+            "Thomas Bidegain",
+            "Léa Mysius",
+            "Nicolas Livecchi"
+          ],
+          "film": "Emilia Pérez"
+        },
+        {
+          "recipients": [
+            "RaMell Ross",
+            "Joslyn Barnes"
+          ],
+          "film": "Nickel Boys"
+        },
+        {
+          "recipients": [
+            "Clint Bentley",
+            "Greg Kwedar",
+            "Clint Bentley",
+            "Greg Kwedar",
+            "Clarence Maclin",
+            "John \"Divine G\" Whitfield"
+          ],
+          "film": "Sing Sing"
+        }
+      ]
+    },
+    {
+      "title": "Writing (Original Screenplay)",
+      "nominees": [
+        {
+          "recipients": [
+            "Sean Baker"
+          ],
+          "film": "Anora"
+        },
+        {
+          "recipients": [
+            "Brady Corbet",
+            "Mona Fastvold"
+          ],
+          "film": "The Brutalist"
+        },
+        {
+          "recipients": [
+            "Jesse Eisenberg"
+          ],
+          "film": "A Real Pain"
+        },
+        {
+          "recipients": [
+            "Moritz Binder",
+            "Tim Fehlbaum",
+            "Alex David"
+          ],
+          "film": "September 5"
+        },
+        {
+          "recipients": [
+            "Coralie Fargeat"
+          ],
+          "film": "The Substance"
+        }
+      ]
+    }
+  ]
+}
